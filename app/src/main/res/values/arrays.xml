@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preloaded_fonts" />
+
+    <string-array name="budgets">
+        <item> Select Budget</item>
+        <item> Less than 10L</item>
+        <item>10L - 20L</item>
+        <item>20L - 30L</item>
+        <item>30L - 40L</item>
+        <item>40L - 50L</item>
+        <item>50L - 60L</item>
+        <item>60L - 70L</item>
+        <item>70L - 80L</item>
+        <item>80L - 90L</item>
+        <item>90L - 1Cr</item>
+        <item>Greater than 1Cr</item>
+    </string-array>
+
+    <string-array name="facing">
+        <item>East</item>
+        <item>West</item>
+        <item>North</item>
+        <item>South</item>
+    </string-array>
+
+
+    <string-array name="flooring">
+        <item>Tiles</item>
+        <item>Marble</item>
+        <item>Granite</item>
+    </string-array>
+
+
+</resources>

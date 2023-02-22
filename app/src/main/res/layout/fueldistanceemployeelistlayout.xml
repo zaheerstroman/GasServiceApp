@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".view.FuelDistanceEmployeeListActivity">
+<!--    android:background="#547CEA"-->
+
+    <LinearLayout
+        android:id="@+id/layoutid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/roundedcorner"
+        android:layout_marginTop="5dp"
+
+        tools:ignore="UselessParent">
+
+     <TextView
+         android:id="@+id/usertext"
+         android:layout_width="wrap_content"
+         android:layout_marginStart="5dp"
+         android:textSize="16dp"
+         android:layout_height="40dp"/>
+        <TextView
+            android:id="@+id/emailtext"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="5dp"
+            android:textSize="16dp"
+            android:textColor="#547CEA"
+            android:layout_height="40dp"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

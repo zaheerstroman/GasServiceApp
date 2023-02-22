@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/btnMenu"
+        android:title="Menu" />
+
+
+    <item
+        android:id="@+id/btnNormal"
+        android:title="Default" />
+
+    <item
+        android:id="@+id/btnSatellite"
+        android:title="Satellite" />
+
+    <item
+        android:id="@+id/btnTerrain"
+        android:title="Terrain" />
+
+    <!--    Hybrid = Graph-->
+    <item
+        android:id="@+id/btnHybrid"
+        android:title="Hybrid" />
+
+
+<!--    <item-->
+<!--        android:id="@+id/btnGraph"-->
+<!--        android:title="Graph" />-->
+
+    <item
+        android:id="@+id/btnSearchPlus"
+        android:title="Search Plus" />
+
+    <item
+        android:id="@+id/btnReward"
+        android:title="Reward" />
+
+    <item
+        android:id="@+id/btnSetting"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/btnGalary"
+        android:title="Galary" />
+
+    <item
+        android:id="@+id/btnPlus"
+        android:title="Plus" />
+
+    <item
+        android:id="@+id/btnMaines"
+        android:title="Maines" />
+
+
+</menu>
